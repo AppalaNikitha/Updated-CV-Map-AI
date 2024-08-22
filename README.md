@@ -6,3 +6,12 @@ It is an innovative platform offering features like
 
 
 This AI-powered tool helps students craft impressive CVs, providing a competitive edge in the job market by showcasing their qualifications, experiences, and skills effectively.
+
+
+### To run the code:
+- use commands : python tempCodeRunnerFile.py
+-  python subjective.py
+-  python app.py
+
+
+To access the site locally, http://127.0.0.1:5000/ 
